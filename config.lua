@@ -30,7 +30,7 @@ Config.ItemChance = {
 		'meth'
 	},
 	['active'] = true,
-	['chance'] = 10 --percent of chance to recieve an item
+	['percentage'] = 10 --percent of chance to recieve an item
 }
 
 Config.Locations = {
